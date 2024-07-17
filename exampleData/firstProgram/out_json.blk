@@ -1,0 +1,854 @@
+{
+  "run_blocks": [
+    {
+      "run_id": 0,
+      "block": [
+        {
+          "block_id": 0,
+          "block_start": 65652,
+          "block_start_hex": "0x10074",
+          "block_end": 65652,
+          "block_end_hex": "0x10074",
+          "file_name": "bootstrap.S",
+          "code_file_id": 0,
+          "line_start": 6,
+          "line_end": 6,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 1,
+          "block_start": 65656,
+          "block_start_hex": "0x10078",
+          "block_end": 65656,
+          "block_end_hex": "0x10078",
+          "file_name": "Unknown",
+          "code_file_id": -1,
+          "line_start": -1,
+          "line_end": -1,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 2,
+          "block_start": 65660,
+          "block_start_hex": "0x1007c",
+          "block_end": 65688,
+          "block_end_hex": "0x10098",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 7,
+          "line_end": 10,
+          "function_name": "main"
+        },
+        {
+          "block_id": 3,
+          "block_start": 65692,
+          "block_start_hex": "0x1009c",
+          "block_end": 65712,
+          "block_end_hex": "0x100b0",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 12,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 4,
+          "block_start": 65760,
+          "block_start_hex": "0x100e0",
+          "block_end": 65768,
+          "block_end_hex": "0x100e8",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 24,
+          "line_end": 24,
+          "function_name": "main"
+        },
+        {
+          "block_id": 5,
+          "block_start": 65772,
+          "block_start_hex": "0x100ec",
+          "block_end": 65776,
+          "block_end_hex": "0x100f0",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 26,
+          "line_end": 26,
+          "function_name": "main"
+        },
+        {
+          "block_id": 6,
+          "block_start": 65804,
+          "block_start_hex": "0x1010c",
+          "block_end": 65832,
+          "block_end_hex": "0x10128",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 35,
+          "line_end": -1,
+          "function_name": "main"
+        },
+        {
+          "block_id": 7,
+          "block_start": 65836,
+          "block_start_hex": "0x1012c",
+          "block_end": 65896,
+          "block_end_hex": "0x10168",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 13,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 8,
+          "block_start": 65944,
+          "block_start_hex": "0x10198",
+          "block_end": 65968,
+          "block_end_hex": "0x101b0",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 26,
+          "line_end": 27,
+          "function_name": "symex_exit"
+        }
+      ]
+    },
+    {
+      "run_id": 1,
+      "block": [
+        {
+          "block_id": 0,
+          "block_start": 65652,
+          "block_start_hex": "0x10074",
+          "block_end": 65652,
+          "block_end_hex": "0x10074",
+          "file_name": "bootstrap.S",
+          "code_file_id": 0,
+          "line_start": 6,
+          "line_end": 6,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 1,
+          "block_start": 65656,
+          "block_start_hex": "0x10078",
+          "block_end": 65656,
+          "block_end_hex": "0x10078",
+          "file_name": "Unknown",
+          "code_file_id": -1,
+          "line_start": -1,
+          "line_end": -1,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 2,
+          "block_start": 65660,
+          "block_start_hex": "0x1007c",
+          "block_end": 65688,
+          "block_end_hex": "0x10098",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 7,
+          "line_end": 10,
+          "function_name": "main"
+        },
+        {
+          "block_id": 3,
+          "block_start": 65692,
+          "block_start_hex": "0x1009c",
+          "block_end": 65712,
+          "block_end_hex": "0x100b0",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 12,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 9,
+          "block_start": 65716,
+          "block_start_hex": "0x100b4",
+          "block_end": 65720,
+          "block_end_hex": "0x100b8",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 18,
+          "line_end": 18,
+          "function_name": "main"
+        },
+        {
+          "block_id": 10,
+          "block_start": 65724,
+          "block_start_hex": "0x100bc",
+          "block_end": 65756,
+          "block_end_hex": "0x100dc",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 20,
+          "line_end": 18,
+          "function_name": "main"
+        },
+        {
+          "block_id": 4,
+          "block_start": 65760,
+          "block_start_hex": "0x100e0",
+          "block_end": 65768,
+          "block_end_hex": "0x100e8",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 24,
+          "line_end": 24,
+          "function_name": "main"
+        },
+        {
+          "block_id": 11,
+          "block_start": 65812,
+          "block_start_hex": "0x10114",
+          "block_end": 65832,
+          "block_end_hex": "0x10128",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 38,
+          "line_end": -1,
+          "function_name": "main"
+        },
+        {
+          "block_id": 7,
+          "block_start": 65836,
+          "block_start_hex": "0x1012c",
+          "block_end": 65896,
+          "block_end_hex": "0x10168",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 13,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 8,
+          "block_start": 65944,
+          "block_start_hex": "0x10198",
+          "block_end": 65968,
+          "block_end_hex": "0x101b0",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 26,
+          "line_end": 27,
+          "function_name": "symex_exit"
+        }
+      ]
+    },
+    {
+      "run_id": 2,
+      "block": [
+        {
+          "block_id": 0,
+          "block_start": 65652,
+          "block_start_hex": "0x10074",
+          "block_end": 65652,
+          "block_end_hex": "0x10074",
+          "file_name": "bootstrap.S",
+          "code_file_id": 0,
+          "line_start": 6,
+          "line_end": 6,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 1,
+          "block_start": 65656,
+          "block_start_hex": "0x10078",
+          "block_end": 65656,
+          "block_end_hex": "0x10078",
+          "file_name": "Unknown",
+          "code_file_id": -1,
+          "line_start": -1,
+          "line_end": -1,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 2,
+          "block_start": 65660,
+          "block_start_hex": "0x1007c",
+          "block_end": 65688,
+          "block_end_hex": "0x10098",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 7,
+          "line_end": 10,
+          "function_name": "main"
+        },
+        {
+          "block_id": 3,
+          "block_start": 65692,
+          "block_start_hex": "0x1009c",
+          "block_end": 65712,
+          "block_end_hex": "0x100b0",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 12,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 4,
+          "block_start": 65760,
+          "block_start_hex": "0x100e0",
+          "block_end": 65768,
+          "block_end_hex": "0x100e8",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 24,
+          "line_end": 24,
+          "function_name": "main"
+        },
+        {
+          "block_id": 11,
+          "block_start": 65812,
+          "block_start_hex": "0x10114",
+          "block_end": 65832,
+          "block_end_hex": "0x10128",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 38,
+          "line_end": -1,
+          "function_name": "main"
+        },
+        {
+          "block_id": 7,
+          "block_start": 65836,
+          "block_start_hex": "0x1012c",
+          "block_end": 65896,
+          "block_end_hex": "0x10168",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 13,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 8,
+          "block_start": 65944,
+          "block_start_hex": "0x10198",
+          "block_end": 65968,
+          "block_end_hex": "0x101b0",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 26,
+          "line_end": 27,
+          "function_name": "symex_exit"
+        }
+      ]
+    },
+    {
+      "run_id": 3,
+      "block": [
+        {
+          "block_id": 0,
+          "block_start": 65652,
+          "block_start_hex": "0x10074",
+          "block_end": 65652,
+          "block_end_hex": "0x10074",
+          "file_name": "bootstrap.S",
+          "code_file_id": 0,
+          "line_start": 6,
+          "line_end": 6,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 1,
+          "block_start": 65656,
+          "block_start_hex": "0x10078",
+          "block_end": 65656,
+          "block_end_hex": "0x10078",
+          "file_name": "Unknown",
+          "code_file_id": -1,
+          "line_start": -1,
+          "line_end": -1,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 2,
+          "block_start": 65660,
+          "block_start_hex": "0x1007c",
+          "block_end": 65688,
+          "block_end_hex": "0x10098",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 7,
+          "line_end": 10,
+          "function_name": "main"
+        },
+        {
+          "block_id": 3,
+          "block_start": 65692,
+          "block_start_hex": "0x1009c",
+          "block_end": 65712,
+          "block_end_hex": "0x100b0",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 12,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 4,
+          "block_start": 65760,
+          "block_start_hex": "0x100e0",
+          "block_end": 65768,
+          "block_end_hex": "0x100e8",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 24,
+          "line_end": 24,
+          "function_name": "main"
+        },
+        {
+          "block_id": 5,
+          "block_start": 65772,
+          "block_start_hex": "0x100ec",
+          "block_end": 65776,
+          "block_end_hex": "0x100f0",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 26,
+          "line_end": 26,
+          "function_name": "main"
+        },
+        {
+          "block_id": 12,
+          "block_start": 65780,
+          "block_start_hex": "0x100f4",
+          "block_end": 65792,
+          "block_end_hex": "0x10100",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 28,
+          "line_end": 30,
+          "function_name": "main"
+        },
+        {
+          "block_id": 6,
+          "block_start": 65804,
+          "block_start_hex": "0x1010c",
+          "block_end": 65832,
+          "block_end_hex": "0x10128",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 35,
+          "line_end": -1,
+          "function_name": "main"
+        },
+        {
+          "block_id": 7,
+          "block_start": 65836,
+          "block_start_hex": "0x1012c",
+          "block_end": 65896,
+          "block_end_hex": "0x10168",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 13,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 8,
+          "block_start": 65944,
+          "block_start_hex": "0x10198",
+          "block_end": 65968,
+          "block_end_hex": "0x101b0",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 26,
+          "line_end": 27,
+          "function_name": "symex_exit"
+        }
+      ]
+    }
+  ],
+  "cfg_blocks": [
+        {
+          "block_id": 0,
+          "block_start": 65652,
+          "block_start_hex": "0x10074",
+          "block_end": 65652,
+          "block_end_hex": "0x10074",
+          "file_name": "bootstrap.S",
+          "code_file_id": 0,
+          "line_start": 6,
+          "line_end": 6,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 1,
+          "block_start": 65656,
+          "block_start_hex": "0x10078",
+          "block_end": 65656,
+          "block_end_hex": "0x10078",
+          "file_name": "Unknown",
+          "code_file_id": -1,
+          "line_start": -1,
+          "line_end": -1,
+          "function_name": "Unknown"
+        },
+        {
+          "block_id": 2,
+          "block_start": 65660,
+          "block_start_hex": "0x1007c",
+          "block_end": 65688,
+          "block_end_hex": "0x10098",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 7,
+          "line_end": 10,
+          "function_name": "main"
+        },
+        {
+          "block_id": 3,
+          "block_start": 65692,
+          "block_start_hex": "0x1009c",
+          "block_end": 65712,
+          "block_end_hex": "0x100b0",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 12,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 4,
+          "block_start": 65760,
+          "block_start_hex": "0x100e0",
+          "block_end": 65768,
+          "block_end_hex": "0x100e8",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 24,
+          "line_end": 24,
+          "function_name": "main"
+        },
+        {
+          "block_id": 5,
+          "block_start": 65772,
+          "block_start_hex": "0x100ec",
+          "block_end": 65776,
+          "block_end_hex": "0x100f0",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 26,
+          "line_end": 26,
+          "function_name": "main"
+        },
+        {
+          "block_id": 6,
+          "block_start": 65804,
+          "block_start_hex": "0x1010c",
+          "block_end": 65832,
+          "block_end_hex": "0x10128",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 35,
+          "line_end": -1,
+          "function_name": "main"
+        },
+        {
+          "block_id": 7,
+          "block_start": 65836,
+          "block_start_hex": "0x1012c",
+          "block_end": 65896,
+          "block_end_hex": "0x10168",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 13,
+          "line_end": 16,
+          "function_name": "main"
+        },
+        {
+          "block_id": 8,
+          "block_start": 65944,
+          "block_start_hex": "0x10198",
+          "block_end": 65968,
+          "block_end_hex": "0x101b0",
+          "file_name": "symex.c",
+          "code_file_id": 2,
+          "line_start": 26,
+          "line_end": 27,
+          "function_name": "symex_exit"
+        },
+        {
+          "block_id": 9,
+          "block_start": 65716,
+          "block_start_hex": "0x100b4",
+          "block_end": 65720,
+          "block_end_hex": "0x100b8",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 18,
+          "line_end": 18,
+          "function_name": "main"
+        },
+        {
+          "block_id": 10,
+          "block_start": 65724,
+          "block_start_hex": "0x100bc",
+          "block_end": 65756,
+          "block_end_hex": "0x100dc",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 20,
+          "line_end": 18,
+          "function_name": "main"
+        },
+        {
+          "block_id": 11,
+          "block_start": 65812,
+          "block_start_hex": "0x10114",
+          "block_end": 65832,
+          "block_end_hex": "0x10128",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 38,
+          "line_end": -1,
+          "function_name": "main"
+        },
+        {
+          "block_id": 12,
+          "block_start": 65780,
+          "block_start_hex": "0x100f4",
+          "block_end": 65792,
+          "block_end_hex": "0x10100",
+          "file_name": "main.c",
+          "code_file_id": 1,
+          "line_start": 28,
+          "line_end": 30,
+          "function_name": "main"
+        }
+  ],
+  "code_files": [
+    {
+      "file_id": 0,
+      "name": "bootstrap.S",
+      "path": "/home/riscv-vp/riscv-vp/examples/trace-example",
+      "path_name": "/home/riscv-vp/riscv-vp/examples/trace-example/bootstrap.S",
+      "functions": [
+      ],
+      "compiled_code_lines": [
+        {
+          "line": 6,
+          "pc": 65652,
+          "pc_hex": "0x10074",
+          "hit_count": 4
+        },
+        {
+          "line": 7,
+          "pc": 65656,
+          "pc_hex": "0x10078",
+          "hit_count": 0
+        }
+      ]
+    },
+    {
+      "file_id": 1,
+      "name": "main.c",
+      "path": "/home/riscv-vp/riscv-vp/examples/firstProgram",
+      "path_name": "/home/riscv-vp/riscv-vp/examples/firstProgram/main.c",
+      "functions": [
+        {
+          "name": "main",
+          "start": 65660,
+          "start_hex": "0x1007c",
+          "end": 65836,
+          "end_hex": "0x1012c"
+        }
+      ],
+      "compiled_code_lines": [
+        {
+          "line": 7,
+          "pc": 65660,
+          "pc_hex": "0x1007c",
+          "hit_count": 4
+        },
+        {
+          "line": 10,
+          "pc": 65676,
+          "pc_hex": "0x1008c",
+          "hit_count": 4
+        },
+        {
+          "line": 12,
+          "pc": 65692,
+          "pc_hex": "0x1009c",
+          "hit_count": 4
+        },
+        {
+          "line": 13,
+          "pc": 65696,
+          "pc_hex": "0x100a0",
+          "hit_count": 4
+        },
+        {
+          "line": 14,
+          "pc": 65700,
+          "pc_hex": "0x100a4",
+          "hit_count": 4
+        },
+        {
+          "line": 16,
+          "pc": 65704,
+          "pc_hex": "0x100a8",
+          "hit_count": 4
+        },
+        {
+          "line": 18,
+          "pc": 65716,
+          "pc_hex": "0x100b4",
+          "hit_count": 21
+        },
+        {
+          "line": 20,
+          "pc": 65724,
+          "pc_hex": "0x100bc",
+          "hit_count": 20
+        },
+        {
+          "line": 24,
+          "pc": 65760,
+          "pc_hex": "0x100e0",
+          "hit_count": 4
+        },
+        {
+          "line": 26,
+          "pc": 65772,
+          "pc_hex": "0x100ec",
+          "hit_count": 2
+        },
+        {
+          "line": 28,
+          "pc": 65780,
+          "pc_hex": "0x100f4",
+          "hit_count": 1
+        },
+        {
+          "line": 30,
+          "pc": 65788,
+          "pc_hex": "0x100fc",
+          "hit_count": 1
+        },
+        {
+          "line": 32,
+          "pc": 65796,
+          "pc_hex": "0x10104",
+          "hit_count": 0
+        },
+        {
+          "line": 35,
+          "pc": 65804,
+          "pc_hex": "0x1010c",
+          "hit_count": 2
+        },
+        {
+          "line": 38,
+          "pc": 65812,
+          "pc_hex": "0x10114",
+          "hit_count": 4
+        },
+        {
+          "line": 39,
+          "pc": 65816,
+          "pc_hex": "0x10118",
+          "hit_count": 0
+        }
+      ]
+    },
+    {
+      "file_id": 2,
+      "name": "symex.c",
+      "path": "/home/riscv-vp/riscv-vp/examples/trace-example",
+      "path_name": "/home/riscv-vp/riscv-vp/examples/trace-example/symex.c",
+      "functions": [
+        {
+          "name": "symex_exit",
+          "start": 65944,
+          "start_hex": "0x10198",
+          "end": 65988,
+          "end_hex": "0x101c4"
+        },
+        {
+          "name": "symex_error",
+          "start": 65900,
+          "start_hex": "0x1016c",
+          "end": 65944,
+          "end_hex": "0x10198"
+        },
+        {
+          "name": "make_symbolic",
+          "start": 65836,
+          "start_hex": "0x1012c",
+          "end": 65900,
+          "end_hex": "0x1016c"
+        }
+      ],
+      "compiled_code_lines": [
+        {
+          "line": 13,
+          "pc": 65836,
+          "pc_hex": "0x1012c",
+          "hit_count": 4
+        },
+        {
+          "line": 14,
+          "pc": 65856,
+          "pc_hex": "0x10140",
+          "hit_count": 4
+        },
+        {
+          "line": 15,
+          "pc": 65868,
+          "pc_hex": "0x1014c",
+          "hit_count": 4
+        },
+        {
+          "line": 16,
+          "pc": 65884,
+          "pc_hex": "0x1015c",
+          "hit_count": 4
+        },
+        {
+          "line": 20,
+          "pc": 65900,
+          "pc_hex": "0x1016c",
+          "hit_count": 0
+        },
+        {
+          "line": 21,
+          "pc": 65912,
+          "pc_hex": "0x10178",
+          "hit_count": 0
+        },
+        {
+          "line": 22,
+          "pc": 65928,
+          "pc_hex": "0x10188",
+          "hit_count": 0
+        },
+        {
+          "line": 26,
+          "pc": 65944,
+          "pc_hex": "0x10198",
+          "hit_count": 4
+        },
+        {
+          "line": 27,
+          "pc": 65956,
+          "pc_hex": "0x101a4",
+          "hit_count": 4
+        },
+        {
+          "line": 28,
+          "pc": 65972,
+          "pc_hex": "0x101b4",
+          "hit_count": 0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{174A9A01-F423-4858-9678-A6F3080A0CE5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SymbolicTracer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		}
+	]
+}
