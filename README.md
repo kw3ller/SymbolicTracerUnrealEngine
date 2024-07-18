@@ -18,8 +18,8 @@ This project visualizes the symbolic execution traces of RISC-V programs in 3 di
 An example video can be seen here: [YouTube](https://www.youtube.com/watch?v=PjYUz7UHizg)
 
 This visualization tool consists of two parts:
-- a Python program, that processes the raw analysis trace files into a PTrace and Blk JSON file
-- the Unreal Engine application, that visualizes the processed trace files, as well as the source code files
+- a Python program, that processes the raw analysis trace files into a PTrace and Blk JSON file (inside trace-processing folder)
+- the Unreal Engine application, that visualizes the processed trace files, as well as the source code files (inside SymbolicTracer folder)
 
 ## Installation
 
