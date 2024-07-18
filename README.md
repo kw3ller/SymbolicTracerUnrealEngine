@@ -27,10 +27,10 @@ This visualization tool consists of two parts:
 The module requires Python version 3.1 or newer to be installed
 
 ### Unreal Engine visualization
-To simply use the tool, the prebuild binaries can be found in the <strong>build</strong> folder for Linux and Windows:
+To simply use the tool, the prebuild binaries can be found in the <strong>build</strong> folder for Linux and Windows. After extraction:
 
 - Linux: execute /build/Linux/SymbolicTracer/Binaries/Linux/SymbolicTracer-Linux-Shipping
-- Windows:
+- Windows: execute /build/Windows/SymbolicTracer/Binaries/Win64/SymbolicTracer-Win64-Shipping
 
 To change and further develop the application the Unreal Engine has to be installed.
 Then the project can be used, like any other Unreal Engine C++ project.
