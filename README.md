@@ -41,11 +41,11 @@ To create the .ptrace and the .blk files, needed for the visualization, run the 
 
 script usage: 
 ```powershell
-convert_raw_trace.py [-h] --trace TRACE --output OUTPUT --elf ELF [--source SOURCE]
+convert_raw_trace.py [-h] --trace TRACE --output OUTPUT --elf ELF --source SOURCE
 ```
 or in other words:
 ```powershell
-python ./convert_raw_trace.py --trace "complete/path/to/out.rtrace" --output "choose/some/outputDir" --elf "complete/path/to/compiled/elfFile"
+python ./convert_raw_trace.py --trace "complete/path/to/out.rtrace" --output "choose/some/outputDir" --elf "complete/path/to/compiled/elfFile" --source "complete/path/to/main/sourceFile"
 ```
 
 After this process is finished, the visualization can be started. With the load button at the left bottom corner, an input window opens. There the whole file path to the folder, containing the ptrace, blk, source code files and elf binary needs to be entered and confirmed with the enter key. Afterward, click on ok.
