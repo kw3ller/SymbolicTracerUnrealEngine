@@ -51,6 +51,7 @@ python ./convert_raw_trace.py --trace "complete/path/to/out.rtrace" --output "ch
 After this process is finished, the visualization can be started. With the load button at the left bottom corner, an input window opens. There the whole file path to the folder, containing the ptrace, blk, source code files and elf binary needs to be entered and confirmed with the enter key. Afterward, click on ok.
 Depending on the trace size you might need to wait a few seconds.
 The scene can be navigated with the w, a, s, d keys, as well as the mouse. To rotate or change the camera angle you can either press and hold the mouse wheel and move the mouse, or use the q and e keys.
+The HUD views can be switched by pressing the v key.
 
 
 ## Usage Example:
